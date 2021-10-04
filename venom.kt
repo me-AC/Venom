@@ -1,5 +1,5 @@
-// Kotlin Hello World Program
+// Kotlin Hello Venom Program
 
 fun main(args: Array<String>) {
-    println("Hello World - I'm Venom!")
+    println("Hello I'm Venom!")
 }
